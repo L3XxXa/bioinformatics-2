@@ -66,3 +66,8 @@
 
     ![](./readme_imgs/domains.png)
 
+Дополнительные
+
+![](./readme_imgs/additional1.png)
+
+![](./readme_imgs/additional2.png)
